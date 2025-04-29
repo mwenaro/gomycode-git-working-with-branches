@@ -25,3 +25,7 @@ console.log(isSymmetrical(12567));
 console.log(isSymmetrical(444444));
 console.log(isSymmetrical(9939));
 console.log(isSymmetrical(1112111));
+
+
+
+ 
